@@ -12,3 +12,8 @@ POST
   http://localhost:8080/forms
 
 ```
+
+Run Postgres 
+```bash 
+docker-compose up -d --env-file .env
+```

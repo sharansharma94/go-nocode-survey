@@ -1,0 +1,6 @@
+SQL_HOST   = "localhost"
+SQL_PORT   = 5432
+SQL_USER   = "postgres"
+SQL_PASS   = "postgres"
+DBNAME = "survey"
+PORT = 8080
